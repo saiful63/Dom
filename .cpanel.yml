@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/ajhrsqwc/blog.projectbysaiful.com/
-    - /bin/cp * $DEPLOYPATH
