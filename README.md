@@ -8,7 +8,7 @@ In this project, programming hero api is used to fetch the course image,detail.T
 
 - Dropdown menu for course completion
 - Highlighted headline for current menu
-- Donelist course that have completed
+- Donelist course that have completed already
 
 
 
