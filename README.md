@@ -20,4 +20,4 @@ In this project, programming hero api is used to fetch the course image,detail.T
 - Link: http://openapi.programming-hero.com/api/course/curriculum
 
 ## Upcoming features
-- Local storage
+- Local storage implementation
