@@ -1,0 +1,7 @@
+{
+	  "DEPLOYPATH" : "/home/ybspyjaa/dom/",
+	  "task" :  [
+		"index.php",
+		"images"
+	  ]
+	}
